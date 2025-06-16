@@ -59,7 +59,7 @@ error_persen = (selisih / hasil_analitik) * 100
 print("="*70)
 print("Tugas E-Learning 2 Metode Numerik".center(70))
 print("Nama 1 : Rievan Rivaldy Nur Triana   | NIM : 24552011030")
-print("Nama 2 : Moch. Naufal                | NIM : 2455XXXXXXX")
+print("Nama 2 : Moch. Naufal Ar Karim       | NIM : 24552011014")
 print("Kelas  : TIF RP 24 B")
 print("="*70)
 
