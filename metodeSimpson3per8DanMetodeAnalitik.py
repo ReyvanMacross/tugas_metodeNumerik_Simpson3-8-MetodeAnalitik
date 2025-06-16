@@ -69,7 +69,7 @@ print(f"Batas atas  b = {b}")
 print(f"Jumlah subinterval n = {n}")
 print(f"Lebar tiap subinterval h = {h:.4f}\n")
 
-print(tabulate(rows, headers=["i", "xᵢ", "f(xᵢ)", "Koefisien", "Koef * f(xᵢ)"], tablefmt="grid"))
+print(tabulate(rows, headers=["i", "xᵢ", "f(xᵢ)", "Koefisien", "Koefisien * f(xᵢ)"], tablefmt="grid"))
 
 print(f"\nLangkah Akhir Simpson:")
 print(f"Total penjumlahan = {integral_sum:.4f}")
